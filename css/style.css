@@ -852,6 +852,7 @@ a:focus {
 }
 
 .portfolio .portfolio-item {
+    margin-bottom: 30px; /* Adjust the value as needed */
     position: relative;
     flex: 1 1 calc(33.333% - 30px); /* 3 items per row with spacing */
     overflow: hidden;
